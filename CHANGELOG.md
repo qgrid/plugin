@@ -9,4 +9,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Added
 * Standalone repo.
 
-[unreleased]: https://github.com/qgrid/ng/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/qgrid/plugin/compare/v1.0.0...HEAD
